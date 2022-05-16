@@ -1,0 +1,19 @@
+{
+  "name": "1.1.zadanie_1",
+  "version": "1.0.0",
+  "description": "Czy rok jest przestępny?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sylwesterl5/SR_1_1_Zadanie_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sylwesterl5/SR_1_1_Zadanie_1/issues"
+  },
+  "homepage": "https://github.com/Sylwesterl5/SR_1_1_Zadanie_1#readme"
+}
